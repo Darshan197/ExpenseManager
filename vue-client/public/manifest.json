@@ -1,0 +1,19 @@
+{
+    "name": "Expense",
+    "short_name": "Expense",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "icon-72x72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "icon-144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }
+    ]
+}
